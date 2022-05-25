@@ -1,0 +1,2 @@
+class JanusError(Exception):
+    pass
